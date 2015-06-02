@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F36A4AF9-0F3A-4DCB-86FF-C890E3E23888</string>
+	<key>IDESourceControlProjectName</key>
+	<string>FindRachel</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>3AAB5BD8A7CFDABE0557B6F89A107D53FA9880E3</key>
+		<string>https://bitbucket.org/fiveminutes/fm-blurtest.git</string>
+		<key>51135FA33650107B41E6E0DC99911E3DCC52CB9D</key>
+		<string>https://github.com/jmbaitelli/FindRachel.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>FindRachel.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>3AAB5BD8A7CFDABE0557B6F89A107D53FA9880E3</key>
+		<string>../../../fm-blurtest</string>
+		<key>51135FA33650107B41E6E0DC99911E3DCC52CB9D</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/jmbaitelli/FindRachel.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>51135FA33650107B41E6E0DC99911E3DCC52CB9D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>51135FA33650107B41E6E0DC99911E3DCC52CB9D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>FindRachel</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>3AAB5BD8A7CFDABE0557B6F89A107D53FA9880E3</string>
+			<key>IDESourceControlWCCName</key>
+			<string>fm-blurtest</string>
+		</dict>
+	</array>
+</dict>
+</plist>
